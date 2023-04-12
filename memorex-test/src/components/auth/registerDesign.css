@@ -1,0 +1,13 @@
+.hide {
+  display: none;
+  position: relative;
+}
+
+ .myInfo1:hover + .hide {
+  display: block;
+  color: red;
+}
+ .myInfo2:hover + .hide {
+  display: block;
+  color: red;
+} 
